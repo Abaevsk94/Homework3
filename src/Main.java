@@ -136,7 +136,6 @@ public class Main {
         System.out.println("Маша теперь получает " + afterMashaMonth + " рублей. Годовой доход вырос на " + averageMashaYear + " рублей") ;
         System.out.println("Денис теперь получает " + afterDenisMonth + " рублей. Годовой доход вырос на " + averageDenisYear + " рублей") ;
         System.out.println("Кристина теперь получает " + afterCristinaMonth + " рублей. Годовой доход вырос на " + averageCristinaYear + " рублей") ;
-
     }
 
 }
